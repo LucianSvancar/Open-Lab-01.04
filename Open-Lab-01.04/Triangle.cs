@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Open_Lab_01._04
 {
